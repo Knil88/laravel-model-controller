@@ -9,5 +9,6 @@
 </head>
 <body>
     @include('header')
+ 
 </body>
 </html>

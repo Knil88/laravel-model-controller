@@ -1,5 +1,5 @@
 <header>
     <h1>
-       {{$Titolo}}
+       MOVIES DB
     </h1>
 </header>
