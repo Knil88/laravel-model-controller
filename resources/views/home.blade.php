@@ -1,4 +1,5 @@
 @include('layouts.base')
+@section('content')
 <div class="container-fluid d-flex text-center justify-content-around">
     <ul>
         <h3>Titolo</h3>
@@ -41,3 +42,4 @@
         @endforeach
     </ul>
 </div>
+@endsection
